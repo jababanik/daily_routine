@@ -4,9 +4,9 @@
 
 The data is taken from publication on insight. Snapshots of which are attached.
 
-Listing below few lines of the people taken into account:  (source: Wikipedia)
+## Listing below few lines of the people taken into account:  (source: Wikipedia)
 
-Charles Robert Darwin FRS FRGS FLS FZS[2] (/ˈdɑːrwɪn/;[5] 12 February 1809 – 19 April 1882) was an English naturalist, geologist and biologist,[6] best known for his contributions to the science of evolution.British naturalist Charles Darwin is credited for the theory of natural selection.
+<strong>Charles Robert Darwin</strong> FRS FRGS FLS FZS[2] (/ˈdɑːrwɪn/;[5] 12 February 1809 – 19 April 1882) was an English naturalist, geologist and biologist,[6] best known for his contributions to the science of evolution.British naturalist Charles Darwin is credited for the theory of natural selection.
 
 Benjamin Franklin FRS FRSA FRSE (January 17, 1706 [O.S. January 6, 1706] – April 17, 1790) was an American polymath and one of the Founding Fathers of the United States. Franklin was a leading writer, printer, political philosopher, politician, Freemason, postmaster, scientist, inventor, humorist, civic activist, statesman, and diplomat. As a scientist, he was a major figure in the American Enlightenment and the history of physics for his discoveries and theories regarding electricity. As an inventor, he is known for the lightning rod, bifocals, and the Franklin stove, among other inventions.[1] He founded many civic organizations, including the Library Company, Philadelphia's first fire department,[2] and the University of Pennsylvania.
 
